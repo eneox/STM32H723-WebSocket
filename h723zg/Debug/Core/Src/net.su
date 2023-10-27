@@ -1,0 +1,16 @@
+../Core/Src/net.c:52:10:mg_now	16	static
+../Core/Src/net.c:56:5:ui_event_next	24	static
+../Core/Src/net.c:75:13:sfn	56	static
+../Core/Src/net.c:89:13:timer_sntp_fn	16	static
+../Core/Src/net.c:94:21:authenticate	160	static
+../Core/Src/net.c:121:13:handle_login	296	static
+../Core/Src/net.c:130:13:handle_logout	272	static
+../Core/Src/net.c:140:13:handle_debug	32	static
+../Core/Src/net.c:146:15:print_int_arr	48	static
+../Core/Src/net.c:155:13:handle_stats_get	136	static
+../Core/Src/net.c:164:15:print_events	144	static
+../Core/Src/net.c:183:13:handle_events_get	64	static
+../Core/Src/net.c:189:13:handle_settings_set	96	static
+../Core/Src/net.c:212:13:handle_settings_get	96	static
+../Core/Src/net.c:222:13:fn	112	static
+../Core/Src/net.c:263:6:web_init	32	static

@@ -1,0 +1,3 @@
+../Core/Src/packed_fs.c:22:12:scmp	3
+../Core/Src/packed_fs.c:27:13:mg_unlist	1
+../Core/Src/packed_fs.c:31:13:mg_unpack	5
